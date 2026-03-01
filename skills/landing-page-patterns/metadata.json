@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "High-conversion landing page patterns with CRO psychology, Tailwind code, and copy frameworks. Seven section types: Hero (5 variants), Social Proof, Feature Grid (3 variants), Pricing (3-tier anchor), Testimonials, FAQ (objection-handling), Final CTA. Includes eye-tracking patterns (F/Z/Gutenberg), Hick's law (choice reduction), anchoring effect, social proof hierarchy, loss aversion, and A/B test hooks. 30+ production-ready component examples with conversion benchmarks.",
+  "references": [
+    "https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/",
+    "https://tailwindcss.com/docs/responsive-design",
+    "https://tailwindcss.com/docs/dark-mode",
+    "https://en.wikipedia.org/wiki/Robert_Cialdini",
+    "https://unbounce.com/conversion-rate-optimization/",
+    "https://vwo.com/blog/"
+  ]
+}

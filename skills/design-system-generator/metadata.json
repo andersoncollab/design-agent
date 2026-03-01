@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Complete design system workflow orchestrating 5 phases: Discovery (context gathering), Aesthetic Direction (visual strategy), Typography (font pairing + scale), Color System (accessible palette + dark mode), and Tokens & Components (spacing, radius, shadows, breakpoints, component specs). Produces production-ready deliverables: CSS custom properties, Tailwind config extension, type scale table, color palette with contrast validation, spacing/radius/shadow tables, component token reference, and 02-DESIGN-SYSTEM.md documentation. Integrates aesthetic-direction, typography-pairing, and color-system skills. Cross-references brand-research for competitive analysis. Suitable for greenfield projects, design system overhauls, and multi-product consistency.",
+  "references": [
+    "https://www.figmatokens.com/",
+    "https://amzn.github.io/style-dictionary/",
+    "https://component.gallery/",
+    "https://tailwindcss.com/docs",
+    "https://www.designtokens.org/",
+    "https://fontshare.com/",
+    "https://craftwork.design/"
+  ]
+}

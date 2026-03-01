@@ -1,0 +1,66 @@
+{
+  "name": "design-agent",
+  "owner": {
+    "name": "Anderson Collaborative",
+    "url": "https://andersoncollaborative.com"
+  },
+  "metadata": {
+    "description": "44 design and product development skills — web, apps, graphics, print — with Figma MCP, Brandfetch, and remove.bg integrations",
+    "version": "4.0.0",
+    "repository": "https://github.com/andersoncollaborative/design-agent"
+  },
+  "plugins": [
+    {
+      "name": "design-skills",
+      "description": "Complete design agent: brand research, typography, color systems, bento layouts, component patterns, motion design, responsive patterns, dark mode, design critique, social media, ad creatives, print specs, Figma pipeline, landing pages, email design, dashboards, scroll animations, accessibility, design tokens, page transitions, app design systems, agentic UI, competitive intelligence, client deliverables, icon systems, image optimization, SEO design patterns, micro-interactions, form design, i18n/RTL, white-label systems, design QA, design handoff, and end-to-end design workflows",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/brand-research",
+        "./skills/aesthetic-direction",
+        "./skills/typography-pairing",
+        "./skills/color-system",
+        "./skills/bento-layout",
+        "./skills/component-patterns",
+        "./skills/background-removal",
+        "./skills/social-media-design",
+        "./skills/ad-creative-design",
+        "./skills/print-design",
+        "./skills/design-system-generator",
+        "./skills/visual-audit",
+        "./skills/design-to-code",
+        "./skills/brand-identity-system",
+        "./skills/motion-design",
+        "./skills/responsive-patterns",
+        "./skills/dark-mode",
+        "./skills/design-critique",
+        "./skills/figma-pipeline",
+        "./skills/landing-page-patterns",
+        "./skills/email-design",
+        "./skills/dashboard-patterns",
+        "./skills/scroll-animations",
+        "./skills/accessibility-system",
+        "./skills/design-tokens",
+        "./skills/page-transitions",
+        "./skills/competitive-design-intel",
+        "./skills/app-design-system",
+        "./skills/agentic-ui",
+        "./skills/client-deliverables",
+        "./skills/icon-systems",
+        "./skills/image-optimization",
+        "./skills/seo-design-patterns",
+        "./skills/micro-interactions",
+        "./skills/form-design",
+        "./skills/i18n-rtl",
+        "./skills/white-label-systems",
+        "./skills/design-qa",
+        "./skills/design-handoff",
+        "./skills/gsap-animations",
+        "./skills/lottie-rive",
+        "./skills/navigation-patterns",
+        "./skills/onboarding-ux",
+        "./skills/error-states"
+      ]
+    }
+  ]
+}

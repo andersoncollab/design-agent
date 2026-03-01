@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Design QA and visual regression testing patterns covering screenshot diffing, cross-browser checks, and pre-launch design checklists.",
+  "references": [
+    "https://playwright.dev/docs/screenshots",
+    "https://www.chromatic.com/docs",
+    "https://github.com/garris/BackstopJS"
+  ]
+}

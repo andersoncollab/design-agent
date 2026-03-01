@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Internationalization and RTL layout patterns covering CSS logical properties, bidirectional text, locale-aware formatting, and component mirroring.",
+  "references": [
+    "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_logical_properties_and_values",
+    "https://www.w3.org/International/",
+    "https://rtlstyling.com"
+  ]
+}

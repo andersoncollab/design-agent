@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "End-to-end design-to-code pipeline orchestrating 6 phases: Brief (requirements gathering), Direction (aesthetic + visual identity via aesthetic-direction), Research (competitor analysis via brand-research), System (design tokens + Tailwind config via design-system-generator), Structure (layout selection via bento-layout + component population via component-patterns), and Build (production code generation). Supports React+Tailwind, Astro+Tailwind, Next.js+Tailwind, and vanilla HTML+CSS. Output: complete frontend scaffold with design system integrated, responsive at all breakpoints, fonts configured, components structured, and ready for content/customization.",
+  "references": [
+    "https://tailwindcss.com/docs",
+    "https://fontshare.com",
+    "https://react.dev",
+    "https://docs.astro.build",
+    "https://nextjs.org/docs",
+    "https://webaim.org/resources/contrastchecker/",
+    "https://2024.stateofjs.com/"
+  ]
+}

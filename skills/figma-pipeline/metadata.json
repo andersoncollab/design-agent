@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "End-to-end Figma-to-production pipeline using Figma MCP server tools. Extract design context from Figma URL (fileKey + nodeId), extract design variables/tokens, match components via Code Connect mappings, and generate stack-specific production code. Supports React+Tailwind, Astro+Tailwind, Next.js, and Vue. Transforms Figma reference code into framework conventions with design tokens applied.",
+  "references": [
+    "https://docs.figma.com/developers/api/intro",
+    "https://www.figma.com/developers/api#code-connect",
+    "https://tailwindcss.com/docs/theme",
+    "https://react.dev/learn/passing-props-to-a-component",
+    "https://docs.astro.build/en/basics/astro-components/",
+    "https://nextjs.org/docs/app"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Comprehensive paid ad creative specifications for Google Display Network (standard IAB sizes + Performance Max), Meta (feed, stories, carousel, collection), LinkedIn (single image, carousel, video, message), TikTok (in-feed, branded effects, TopView), and YouTube (skippable, non-skippable, bumper, discovery). Includes visual hierarchy patterns (F-pattern, Z-pattern, focal point), text overlay limits, character limits per platform, CTA design guidelines, asset checklists, and storyboarding examples for multi-frame campaigns.",
+  "references": [
+    "https://support.google.com/google-ads/answer/6002620",
+    "https://www.facebook.com/business/help/308640981290338",
+    "https://www.linkedin.com/help/lms/answer/a422721",
+    "https://ads.tiktok.com/help/article?aid=9663",
+    "https://support.google.com/youtube/answer/6375649",
+    "https://www.nngroup.com/articles/ads/",
+    "https://wistia.com/learning"
+  ]
+}

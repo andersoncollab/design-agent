@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Web animation and motion design patterns for production frontends. Covers CSS transitions, Framer Motion (React), scroll-triggered animations via Intersection Observer, micro-interactions, loading skeletons, page transitions, and animation choreography. Includes GPU-accelerated property rules (transform and opacity only), easing curve reference table (ease-out for entrances, ease-in for exits), duration guidelines (micro-interactions 150-300ms, page transitions 400-700ms), and mandatory prefers-reduced-motion accessibility compliance (WCAG 2.3.3). Eight production-ready code patterns with Tailwind CSS, vanilla JavaScript Intersection Observer, and Framer Motion/React examples. Emphasizes performance: only animate transform and opacity to avoid 60fps jank from paint thrashing. Includes three real-world scenarios (SaaS landing page with staggered cards, e-commerce product page with zoom and toast notifications, portfolio site with page transitions) and seven common pitfalls with corrective actions.",
+  "references": [
+    "https://www.framer.com/motion/",
+    "https://web.dev/animations-guide/",
+    "https://www.w3.org/WAI/WCAG21/Understanding/animation-from-interactions.html",
+    "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations",
+    "https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API",
+    "https://easings.net/",
+    "https://developer.chrome.com/docs/devtools/performance/"
+  ]
+}

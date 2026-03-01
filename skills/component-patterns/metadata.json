@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Best practices for designing and implementing 20 most-used UI components. Covers component anatomy (parts/slots), 8 required states (default, hover, focus, active, disabled, error, loading, readonly), accessibility requirements (ARIA roles, keyboard navigation, focus management), and anti-patterns. Synthesizes guidance from 95+ design systems including Shopify Polaris, IBM Carbon, Material Design, Radix UI, shadcn/ui. Includes testing checklist for WCAG 2.1 AA compliance.",
+  "references": [
+    "https://component.gallery/",
+    "https://www.w3.org/WAI/ARIA/apg/",
+    "https://www.w3.org/WAI/WCAG21/quickref/",
+    "https://w3c.github.io/aria/",
+    "https://shopify.github.io/polaris/",
+    "https://carbondesignsystem.com/",
+    "https://www.radix-ui.com/",
+    "https://ui.shadcn.com/"
+  ]
+}

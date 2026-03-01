@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Interactive design system wizard for applications (SaaS, mobile apps, web apps, PWAs) covering navigation architecture, state management UI, form systems, notification hierarchies, and platform-specific adaptations. Distinct from marketing site design systems, this skill addresses unique challenges of interactive applications including authentication, real-time data, complex state handling, and multi-platform consistency.",
+  "references": [
+    "https://developer.apple.com/design/human-interface-guidelines/",
+    "https://m3.material.io/",
+    "https://web.dev/learn/forms/",
+    "https://www.figma.com/design-systems/",
+    "https://storybook.js.org/",
+    "https://www.w3.org/WAI/WCAG21/quickref/"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Complete accessibility design system for building genuinely inclusive digital products, not just checking WCAG compliance boxes. Covers focus management, screen reader navigation strategies, ARIA semantics, keyboard-only navigation, landmark roles, form error handling, color-independent design, and automated testing integration. Establishes accessibility as a core design principle from project start. Includes landmark role table (7 roles: banner, navigation, main, complementary, contentinfo, region, search), keyboard navigation matrix (9 component types with Tab/Enter/Escape/Arrow key specs), focus management patterns with React modal example, ARIA live regions for dynamic announcements, skip link implementation, heading hierarchy rules (single h1, no skipped levels), and contrast ratio reference (4.5:1 for normal text, 3:1 for large/UI). Eight production-ready code patterns with axe-core and eslint-plugin-jsx-a11y integration. Two comprehensive examples: accessible contact form (before/after) and accessible modal dialog. Ten common pitfalls with corrective actions covering semantic HTML, focus trapping, color independence, screen reader UX, and keyboard navigation.",
+  "references": [
+    "https://www.w3.org/WAI/WCAG22/quickref/",
+    "https://webaim.org/resources/contrastchecker/",
+    "https://webaim.org/articles/screenreader_testing/",
+    "https://github.com/dequelabs/axe-core",
+    "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y",
+    "https://www.w3.org/WAI/ARIA/apg/",
+    "https://developer.mozilla.org/en-US/docs/Web/Accessibility"
+  ]
+}

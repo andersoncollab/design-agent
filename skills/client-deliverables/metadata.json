@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Workflow for generating professional design deliverables (design system PDFs, brand guidelines, audit reports, competitive analyses, component specs). Orchestrates all other design-agent skills to create branded, narrative-driven documents that tell the story: Problem → Analysis → Recommendation → Action. Includes 4 complete templates (design system doc, visual audit report, competitive analysis, component library spec), AC brand standards, quality checklist, and 7 common pitfalls with fixes.",
+  "references": [
+    "https://www.w3.org/WAI/WCAG21/quickref/",
+    "https://www.figma.com/design-systems/",
+    "https://design-system-guide.com/",
+    "https://bradfrost.com/blog/post/atomic-web-design/"
+  ]
+}

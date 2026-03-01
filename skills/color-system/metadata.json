@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Generate cohesive color systems starting from a base color. Includes color theory principles (60-30-10 rule, complementary, analogous, triadic harmonies), CSS variables, Tailwind config extensions, light/dark mode variants, WCAG accessibility validation, and 15+ gradient recipes for production use.",
+  "references": [
+    "https://color.adobe.com/",
+    "https://www.colorhexa.com/",
+    "https://webaim.org/resources/contrastchecker/",
+    "https://www.color-blindness.com/coblis-color-blindness-simulator/",
+    "https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum",
+    "https://grainient.supply/",
+    "https://www.typescale.com/"
+  ]
+}

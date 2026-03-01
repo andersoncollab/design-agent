@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Image optimization patterns for web performance covering format selection, responsive srcset, lazy loading, and Core Web Vitals impact.",
+  "references": [
+    "https://web.dev/learn/images",
+    "https://sharp.pixelplumbing.com",
+    "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images"
+  ]
+}

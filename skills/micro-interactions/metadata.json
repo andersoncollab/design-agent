@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Micro-interaction design patterns covering hover effects, button feedback, toggle animations, form validation motion, and skeleton loading transitions.",
+  "references": [
+    "https://m3.material.io/styles/motion/overview",
+    "https://www.framer.com/motion/",
+    "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions"
+  ]
+}

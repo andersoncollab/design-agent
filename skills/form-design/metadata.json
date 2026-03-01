@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Form UX design patterns covering input types, inline validation, multi-step wizards, error recovery, and accessible form architecture.",
+  "references": [
+    "https://web.dev/learn/forms",
+    "https://baymard.com/blog/inline-form-validation",
+    "https://www.w3.org/WAI/tutorials/forms/",
+    "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms",
+    "https://www.smashingmagazine.com/2022/09/inline-validation-web-forms-ux/"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Lottie and Rive vector animation integration covering After Effects export, Rive state machines, React players, and performance optimization.",
+  "references": [
+    "https://lottiefiles.com",
+    "https://rive.app/docs",
+    "https://airbnb.io/lottie/",
+    "https://dotlottie.io",
+    "https://github.com/LottieFiles/lottie-react",
+    "https://github.com/rive-app/rive-react"
+  ]
+}

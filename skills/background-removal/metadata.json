@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Production integration with remove.bg API for automated background removal on product photos, headshots, and social media assets. Covers API authentication (X-Api-Key header), tier/credit management (free: 50/month, paid: 100-1500+/month), batch processing patterns, and error handling. Includes curl examples, JavaScript integration, bash batch scripts, and 8 common anti-patterns (transparent images, resolution limits, credit exhaustion, wrong type hints, rate limiting, file optimization).",
+  "references": [
+    "https://remove.bg/api",
+    "https://remove.bg/api/playground",
+    "https://remove.bg/pricing",
+    "https://www.smashingmagazine.com/2021/07/image-optimization/",
+    "https://aws.amazon.com/articles/batch-processing/"
+  ]
+}

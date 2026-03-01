@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Design patterns that directly impact SEO — semantic HTML structure, heading hierarchy, structured data (JSON-LD), internal linking architecture, image SEO optimization, Core Web Vitals design choices, and mobile-first indexing compliance. Bridges visual design and search performance. Covers one h1 per page rule, logical h2/h3 nesting without level skipping, landmark roles (main, nav, header, footer, aside), rich snippet schemas (Article, Product, FAQ, BreadcrumbList, Organization, LocalBusiness, HowTo), hub-and-spoke internal linking (pillar pages linking to cluster pages), image optimization (descriptive filenames, alt text formula, explicit dimensions, lazy loading, next-gen formats), meta tag standards (title, description, canonical, OG, Twitter), Core Web Vitals design patterns (LCP hero image optimization, CLS prevention via explicit dimensions, INP interaction debouncing), mobile-first design (48px touch targets, 16px+ body font, no horizontal scroll, thumb-zone nav), breadcrumb navigation with BreadcrumbList schema, and skip link accessibility. Seven production-ready code patterns with semantic page template, JSON-LD template library (Article, FAQ, Product, BreadcrumbList), React breadcrumb component with embedded schema, internal linking architecture example, image SEO checklist, and meta tag reference template. Ten common pitfalls with fixes including missing alt text, images without dimensions (CLS), multiple h1s, orphaned pages, keyword stuffing, missing canonical, flat IA, client-side rendering issues.",
+  "references": [
+    "https://developers.google.com/search/docs",
+    "https://schema.org",
+    "https://web.dev/learn/performance",
+    "https://web.dev/vitals/",
+    "https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data",
+    "https://www.w3.org/TR/html-semantics/"
+  ]
+}

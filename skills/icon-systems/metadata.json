@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Icon design system patterns covering library selection, sizing scales, accessibility, and SVG optimization.",
+  "references": [
+    "https://lucide.dev",
+    "https://heroicons.com",
+    "https://phosphoricons.com",
+    "https://fonts.google.com/icons",
+    "https://www.w3.org/WAI/test-evaluate/non-text-content/",
+    "https://css-tricks.com/svg/"
+  ]
+}

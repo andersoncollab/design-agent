@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Complete brand identity system creation from discovery through all touchpoints: web, social, advertising, print. Seven-phase workflow: Discovery (brand audit + competitive research via brand-research), Strategy (personality + voice + positioning via aesthetic-direction), Visual Identity (logo system + color system via color-system + typography via typography-pairing), Digital (web guidelines via design-system-generator + bento-layout + component-patterns), Social (platform templates via social-media-design), Advertising (ad creative specs via ad-creative-design), Print (collateral standards via print-design). Output: comprehensive 80-100 page Brand Guidelines document including mission/values, logo usage rules, color/type systems (RGB + CMYK), web component library, social media templates per platform, ad platform specifications, print collateral (business cards, letterhead, signage, packaging), and do's/don'ts visual examples. Master orchestration skill integrating 8+ companion skills.",
+  "references": [
+    "https://www.gatheringofmydomain.com/marketing-strategy/12-brand-archetypes/",
+    "https://webaim.org/resources/contrastchecker/",
+    "https://www.3dartistonline.com/news/2017/12/the-color-theory/",
+    "https://www.typescale.com/",
+    "https://blog.signatureprintingservices.com/bleed-and-safe-area/",
+    "https://support.google.com/google-ads/",
+    "https://www.facebook.com/business/ads-guide",
+    "https://ads.tiktok.com/",
+    "https://www.printful.com/blog/packaging-design-guide/"
+  ]
+}

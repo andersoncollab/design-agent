@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Navigation architecture patterns covering responsive navbars, mobile bottom tabs, sidebars, command palettes, breadcrumbs, mega menus, and tab interfaces. Includes accessibility requirements (ARIA roles, keyboard navigation, focus management), mobile-first strategy (375px-4K), decision matrix for pattern selection (5 patterns, 6+ design system references), and code examples for top navbar, bottom tab bar, sidebar navigation, breadcrumbs, and Cmd+K command palette. Synthesizes Material Design, Polaris, Carbon Design System, W3C ARIA practices.",
+  "references": [
+    "https://www.w3.org/WAI/ARIA/apg/patterns/navigation/",
+    "https://m3.material.io/components/navigation-bar/overview",
+    "https://m3.material.io/components/navigation-drawer/overview",
+    "https://shopify.github.io/polaris/components/navigation",
+    "https://carbondesignsystem.com/components/ui-shell/header/",
+    "https://www.w3.org/WAI/WCAG21/quickref/",
+    "https://schema.org/BreadcrumbList",
+    "https://smashingmagazine.com/2020/02/focus-management-care/"
+  ]
+}

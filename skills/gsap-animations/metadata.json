@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "GSAP animation patterns covering timeline sequencing, ScrollTrigger scroll-linked animations, SplitText typography effects, SVG morphing, stagger animations, and performance optimization for production websites.",
+  "references": [
+    "https://gsap.com/docs/v3/",
+    "https://gsap.com/docs/v3/Plugins/ScrollTrigger/",
+    "https://gsap.com/community/"
+  ]
+}

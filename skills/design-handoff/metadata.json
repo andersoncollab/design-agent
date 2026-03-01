@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Designer-to-developer handoff workflow covering spec documentation, responsive behavior, animation specs, and asset export checklists.",
+  "references": [
+    "https://www.figma.com/dev-mode/",
+    "https://zeplin.io"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Dashboard layout patterns and data visualization patterns for admin panels, analytics interfaces, and data-heavy applications. Covers information architecture (sidebar navigation → page header → KPI cards → charts → data table → activity feed), chart selection guide (10 chart types with use cases and examples), data density strategy (desktop vs tablet vs mobile), number formatting conventions (abbreviations, currency, percentages, trends), and the critical 4-state pattern for every component (loading with skeleton, empty state, error with retry, data). Includes 5 production-ready component patterns in React/Tailwind (sidebar nav, KPI card, data table with sort/filter/pagination, filter bar, activity feed). Complete analytics dashboard example showing all 4 states. 7 common pitfalls with solutions.",
+  "references": [
+    "https://component.gallery/",
+    "https://recharts.org/",
+    "https://www.tremor.so/",
+    "https://www.chartjs.org/",
+    "https://shopify.github.io/polaris/",
+    "https://www.wcag.w3.org/",
+    "https://stripe.com/docs/dashboard"
+  ]
+}

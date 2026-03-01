@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Email template design system for campaigns, transactional emails, and newsletters. Covers rendering constraints across Gmail, Outlook, Apple Mail, and Yahoo. Explains the Outlook Word renderer limitation (tables-only layout), inline CSS requirement, dark mode strategy, image blocking fallbacks, and responsive patterns. Includes complete HTML base structure, 5 component patterns (header/hero/content/CTA/footer), 4 template types (welcome, newsletter, transactional, abandoned cart), and dark mode CSS strategy. Bulletproof button pattern and 7 common pitfalls with corrections.",
+  "references": [
+    "https://www.caniemail.com/",
+    "https://litmus.com/email-previewer",
+    "https://www.emailonacid.com/",
+    "https://mjml.io/",
+    "https://litmus.com/",
+    "https://www.mailmodo.com/",
+    "https://stripo.email/"
+  ]
+}

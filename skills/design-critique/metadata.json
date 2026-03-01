@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Structured design critique framework using eight-dimension scoring system (typography, color, spacing, hierarchy, consistency, accessibility, performance, emotional impact). Produces a weighted Design Quality Score (DQS) ranging from 0-100 with interpretation guide (90+ ship-ready, 75-89 good with fixes, 60-74 needs work, below 60 major redesign). Includes first-impression protocol, dimension-specific evaluation checklists, fix priority framework (critical/high/medium/low), comprehensive DQS report template, and three detailed case study examples. Separates measurable quality criteria from subjective taste. Suitable for pre-launch reviews, client feedback sessions, self-assessment, competitor analysis, design system audits, and design training.",
+  "references": [
+    "https://webaim.org/resources/contrastchecker/",
+    "https://www.typescale.com/",
+    "https://web.dev/vitals/",
+    "https://developer.chrome.com/docs/lighthouse/",
+    "https://component.gallery/",
+    "https://www.w3.org/WAI/WCAG21/quickref/"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Complete dark mode implementation system. Covers CSS custom property theme tokens, Tailwind dark: variant configuration, system preference detection via prefers-color-scheme, manual toggle with localStorage persistence, flash-of-wrong-theme prevention, surface hierarchy (4 elevation levels), color mapping strategy (not inversion), shadow replacement for dark backgrounds, image adaptation, contrast requirements, and complete React toggle component with TypeScript. Includes production code for theme switching, FOWT prevention, and Tailwind token configuration.",
+  "references": [
+    "https://m3.material.io/styles/color/dark-theme",
+    "https://developer.apple.com/design/human-interface-guidelines/dark-mode",
+    "https://tailwindcss.com/docs/dark-mode",
+    "https://webaim.org/resources/contrastchecker/",
+    "https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme",
+    "https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum"
+  ]
+}

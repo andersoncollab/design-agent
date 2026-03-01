@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Multi-tenant theming and white-label design patterns covering CSS custom property architecture, tenant branding, and dynamic theme switching.",
+  "references": [
+    "https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties",
+    "https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme",
+    "https://tailwindcss.com/docs/customizing-colors",
+    "https://tailwindcss.com/docs/dark-mode",
+    "https://css-tricks.com/a-complete-guide-to-custom-properties/"
+  ]
+}

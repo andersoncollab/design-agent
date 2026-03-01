@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Extract brand identity data from any domain using the Brandfetch API. Fetches logos, color palettes, typography, and company information to enable rapid competitor analysis, client onboarding, and design inspiration gathering.",
+  "references": [
+    "https://brandfetch.com/developers",
+    "https://webaim.org/resources/contrastchecker/",
+    "https://systemfontstack.com/",
+    "https://www.w3.org/WAI/WCAG21/quickref/"
+  ]
+}

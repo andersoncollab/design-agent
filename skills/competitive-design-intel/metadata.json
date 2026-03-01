@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Automated competitive design analysis workflow that orchestrates brand research, visual audit scoring, and design critique to produce intelligence reports comparing 2-5 competitors. Identifies differentiation opportunities, quantifies design quality gaps, and provides actionable recommendations for client positioning and redesign justification.",
+  "references": [
+    "https://brandfetch.com/api",
+    "https://www.nngroup.com/articles/competitive-analysis/",
+    "https://www.color-hex.com/",
+    "https://www.figma.com/",
+    "https://www.webmd.com/design-systems"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "User onboarding UX patterns covering first-run experiences, setup wizards, empty states, progressive disclosure, feature tours, and activation milestones.",
+  "references": [
+    "https://www.appcues.com/blog/user-onboarding-ui-ux-patterns",
+    "https://www.useronboard.com"
+  ]
+}

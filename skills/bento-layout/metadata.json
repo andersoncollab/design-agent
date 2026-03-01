@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Production-ready Tailwind CSS Grid bento layout patterns for designing asymmetric, visually dynamic component layouts. Includes 8+ patterns with responsive breakpoints: 2×2 equal grids, 1 large + 2 small configurations, L-shape hero layouts, dashboard panels, 3-column magazines, asymmetric showcases, metrics bars, and masonry alternatives. Each pattern includes complete Tailwind code, mobile/tablet/desktop variants, and anti-patterns to avoid.",
+  "references": [
+    "https://www.bentogrids.com/",
+    "https://tailwindcss.com/docs/grid-column",
+    "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout",
+    "https://www.smashingmagazine.com/2018/04/grid-layout-tips-tricks/"
+  ]
+}

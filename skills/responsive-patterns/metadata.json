@@ -1,0 +1,80 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Responsive web design patterns and breakpoint strategies. Covers mobile-first Tailwind CSS layouts, fluid typography with clamp(), CSS container queries, responsive images (srcset + picture + lazy loading), touch target accessibility (44px minimum), and viewport-aware component patterns. Includes 4-breakpoint strategy (375/768/1024/1440), responsive navigation, fluid hero sections, adaptive grids, responsive tables, and container query components. Seven production-ready patterns with Tailwind CSS examples.",
+  "patterns": [
+    "Responsive Navigation (hamburger mobile, horizontal desktop)",
+    "Responsive Grid (1 col mobile → 2 tablet → 3 desktop)",
+    "Fluid Hero Section (full-viewport mobile, contained desktop)",
+    "Responsive Images with srcset (size-appropriate delivery)",
+    "Responsive Spacing Scale (adaptive padding and gaps)",
+    "Responsive Table (horizontal scroll mobile, full table desktop)",
+    "Container Query Component (parent-width responsive)"
+  ],
+  "breakpoints": {
+    "mobile": {
+      "width": "0-767px",
+      "tailwind": "default",
+      "devices": "iPhone, small Android"
+    },
+    "tablet": {
+      "width": "768-1023px",
+      "tailwind": "md:",
+      "devices": "iPad, large phones landscape"
+    },
+    "desktop": {
+      "width": "1024-1439px",
+      "tailwind": "lg:",
+      "devices": "Laptops, small monitors"
+    },
+    "large": {
+      "width": "1440px+",
+      "tailwind": "xl:",
+      "devices": "Desktop monitors, ultrawide"
+    }
+  },
+  "key_concepts": [
+    "Mobile-first principle",
+    "Fluid typography with clamp()",
+    "Touch target sizing (44×44px minimum)",
+    "Container queries for component-aware responsiveness",
+    "Responsive images with srcset and picture element",
+    "Safe area handling for notched devices",
+    "Viewport meta tag requirement",
+    "Layout shift prevention with aspect ratios"
+  ],
+  "accessibility": {
+    "touch_target_size": "44×44px (WCAG 2.5.5 Level AAA)",
+    "responsive_text": "Use clamp() for smooth scaling between breakpoints",
+    "images": "Always include alt text, width/height attributes, and loading='lazy'",
+    "safe_areas": "Use env(safe-area-inset-*) for notched phone support"
+  },
+  "testing_checkpoints": [
+    "375px (iPhone SE)",
+    "768px (iPad)",
+    "1024px (small laptop)",
+    "1440px (desktop monitor)",
+    "Landscape orientation",
+    "Real device testing"
+  ],
+  "references": [
+    "https://tailwindcss.com/docs/responsive-design",
+    "https://web.dev/responsive-web-design-basics/",
+    "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_container_queries",
+    "https://www.w3.org/WAI/WCAG21/Understanding/target-size.html",
+    "https://web.dev/responsive-images/",
+    "https://css-tricks.com/snippets/css/complete-guide-grid/"
+  ],
+  "tags": [
+    "responsive-design",
+    "mobile-first",
+    "tailwind-css",
+    "breakpoints",
+    "fluid-typography",
+    "responsive-images",
+    "container-queries",
+    "accessibility",
+    "wcag"
+  ]
+}

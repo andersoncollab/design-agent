@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "W3C Design Tokens Community Group (DTCG) format for vendor-neutral design systems. Export tokens to CSS custom properties, Tailwind config, Figma variables, or any framework. Covers color, spacing, typography, shadows, borders, gradients, and composite types. Implement semantic token layers (primitives → semantic → component) to ensure consistency across platforms.",
+  "references": [
+    "https://tr.designtokens.org/format/",
+    "https://www.figma.com/developers/api#variables",
+    "https://tailwindcss.com/docs/theme",
+    "https://m3.material.io/foundations/design-tokens/overview",
+    "https://design-tokens.github.io/community-group/format/"
+  ]
+}

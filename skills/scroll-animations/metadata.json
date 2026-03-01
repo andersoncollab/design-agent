@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Next-generation CSS scroll-driven animations using the native Scroll-driven Animations spec (production-ready 2026). Replaces JavaScript scroll event handlers with pure CSS animation-timeline. Covers two timeline types: scroll() for container-linked animations (progress bars, parallax) and view() for element-visibility animations (reveal-on-scroll, entrance effects). Includes animation-range control, scroll-snap patterns for horizontal galleries, sticky header shrink effects, and compositor-safe property rules (transform and opacity only). Six production-ready code patterns with feature detection (@supports), IntersectionObserver fallback for older browsers, and mandatory prefers-reduced-motion accessibility compliance. Browser support: Chrome 115+, Edge 115+, Firefox 110+, Safari 18+ (2026). Three real-world examples: landing page with progress bar and parallax hero, blog article with reveal-on-scroll sections, horizontal gallery with snap points. Eight common pitfalls with corrective actions covering jank prevention, animation range control, and mobile scroll considerations.",
+  "references": [
+    "https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-timeline",
+    "https://developer.chrome.com/blog/scroll-driven-animations/",
+    "https://drafts.csswg.org/scroll-animations-1/",
+    "https://caniuse.com/css-animation-timeline",
+    "https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API",
+    "https://web.dev/animations-guide/"
+  ]
+}

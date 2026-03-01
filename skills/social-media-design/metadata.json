@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Production-ready platform specifications for Instagram, Facebook, LinkedIn, TikTok, X/Twitter, Pinterest, and YouTube. Includes exact dimensions, aspect ratios, safe zones, text limits, file format requirements, and Tailwind CSS responsive preview templates. Eliminates guesswork in multi-platform social media design.",
+  "references": [
+    "https://www.facebook.com/brandresources/",
+    "https://help.instagram.com/1631821640426723",
+    "https://business.linkedin.com/en-us/marketing-solutions/linkedin-pages/",
+    "https://www.tiktok.com/business/en/blog",
+    "https://help.twitter.com/en/using-twitter/twitter-media-best-practices",
+    "https://business.pinterest.com/en/",
+    "https://support.google.com/youtube/answer/183805"
+  ]
+}

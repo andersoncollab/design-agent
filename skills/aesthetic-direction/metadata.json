@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Interactive Q&A skill to discover intentional visual direction for any design project. Asks about project type, industry/audience, and brand personality. Synthesizes inputs into 3-5 curated aesthetic directions with full design briefs including visual characteristics, reference websites, Fontshare font recommendations, color mood, layout philosophy, and strategic rationale. Covers 15+ proven aesthetics: Brutalist, Editorial, Luxury, Organic, Retro-Futuristic, Maximalist Chaos, Playful, Art Deco, Industrial, Soft/Pastel, Dark Cinematic, Swiss Grid, Memphis, Wabi-sabi, Neo-Brutalism. Essential first step for any design system, rebrand, or major project.",
+  "references": [
+    "https://craftwork.design/",
+    "https://www.typewolf.com/",
+    "https://component.gallery/",
+    "https://www.awwwards.com/",
+    "https://fontshare.com/"
+  ]
+}

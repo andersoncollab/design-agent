@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Production-ready design patterns for AI-powered interfaces beyond chat. Covers intent previews (showing users what AI will do before executing), autonomy controls (manual/supervised/autonomous spectrum), task decomposition UI, streaming text with stop controls, tool call transparency, confidence indicators, AI loading states, error recovery paths, and citations. 9 core patterns with React implementations.",
+  "references": [
+    "https://docs.anthropic.com/claude/hig",
+    "https://developer.apple.com/design/human-interface-guidelines/machine-learning/overview",
+    "https://sdk.vercel.ai/docs",
+    "https://openai.com"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Systematically audit website or design visual quality using a 7-dimension framework (typography, color, spacing, layout, components, motion, accessibility) with DFII scoring (Design Feasibility & Impact Index). Output: scored per-dimension breakdown, specific issues with actionable fixes, Quick Wins section highlighting highest-ROI improvements. Uses objective scoring methodology (Impact + Fit + Feasibility + Performance − Consistency Risk) to prioritize fixes and communicate results to stakeholders. Includes anti-patterns, example audits (e-commerce, SaaS, accessibility), and WCAG AA compliance checks.",
+  "references": [
+    "https://webaim.org/resources/contrastchecker/",
+    "https://www.typescale.com/",
+    "https://spaceandlayout.com/",
+    "https://www.component.gallery/",
+    "https://developer.chrome.com/docs/lighthouse/",
+    "https://www.w3.org/WAI/WCAG21/quickref/"
+  ]
+}

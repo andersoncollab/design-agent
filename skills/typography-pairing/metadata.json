@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Six opinionated, production-ready font pairings using free commercial fonts from Fontshare. Includes type scales, CSS imports, and usage guidance for Editorial, Tech/Modern, Playful, Luxury, Minimal, and Bold/Impact personalities.",
+  "references": [
+    "https://www.fontshare.com/",
+    "https://api.fontshare.com/v2/css",
+    "https://www.typescale.com/",
+    "https://www.typewolf.com/",
+    "https://systemfontstack.com/"
+  ]
+}

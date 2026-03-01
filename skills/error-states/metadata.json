@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Error and empty state design patterns covering 404/500 pages, offline mode, permission denied, partial failures, and graceful degradation.",
+  "references": [
+    "https://m3.material.io/design/communication/empty-states",
+    "https://www.microcopy.me",
+    "https://www.rfc-editor.org/rfc/rfc7231#section-6",
+    "https://alistapart.com/article/designing-for-the-moments-when-it-all-falls-apart"
+  ]
+}

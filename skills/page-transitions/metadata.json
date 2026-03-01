@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Seamless page navigation transitions using the browser-native View Transitions API. Covers cross-fade, slide, and shared element morphing (card → detail page). Framework integrations for Next.js, Astro, and vanilla MPA. Includes reduced motion accessibility, fallback strategies for unsupported browsers, and 7 common pitfalls with fixes.",
+  "references": [
+    "https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API",
+    "https://developer.chrome.com/docs/web-platform/view-transitions/",
+    "https://docs.astro.build/en/guides/view-transitions/",
+    "https://developer.chrome.com/blog/view-transitions/",
+    "https://webaim.org/articles/media/"
+  ]
+}

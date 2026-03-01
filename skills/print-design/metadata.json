@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Complete print design specifications for business collateral including exact dimensions with bleed and safe margins, DPI requirements (300 minimum), CMYK color mode guidance with hex-to-CMYK reference table, font embedding and outlining requirements, file format standards (PDF/X-1a preferred), paper stock recommendations, and comprehensive handoff checklists. Covers business cards, letterhead, envelopes, flyers, brochures (tri-fold and bi-fold), postcards, posters, banners, and table tents. Includes 10 common pitfalls and corrective measures.",
+  "references": [
+    "https://www.fogra.org/",
+    "https://www.iso.org/standard/51502.html",
+    "https://www.spiedigital.org/",
+    "https://www.mohawkfine.com/",
+    "https://helpx.adobe.com/indesign/using/fonts.html"
+  ]
+}
