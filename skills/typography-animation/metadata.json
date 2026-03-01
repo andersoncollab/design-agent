@@ -1,0 +1,73 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Kinetic typography and text animation patterns covering character reveals, typewriter effects, variable font animation, text morphing, and GSAP SplitText integration.",
+  "references": [
+    "https://gsap.com/docs/v3/Plugins/SplitText/",
+    "https://splitting.js.org",
+    "https://web.dev/learn/design/typography",
+    "https://web.dev/variable-fonts/",
+    "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations"
+  ],
+  "triggers": [
+    "text animation",
+    "kinetic typography",
+    "typewriter effect",
+    "text reveal",
+    "animated text",
+    "variable font animation",
+    "character reveal",
+    "word reveal",
+    "line animation",
+    "text morphing"
+  ],
+  "techniques": [
+    "character-by-character reveals",
+    "word-by-word effects",
+    "typewriter animations",
+    "text morphing",
+    "variable font axis animation",
+    "headline stagger effects",
+    "text mask techniques",
+    "clip-path reveals",
+    "blur resolve effects",
+    "scroll-triggered reveals",
+    "GSAP SplitText",
+    "scramble/decode effects",
+    "gradient text animation"
+  ],
+  "dependencies": {
+    "optional": [
+      "gsap@^3.12.0",
+      "gsap/SplitText@^3.12.0",
+      "framer-motion@^11.0.0",
+      "splitting@^0.2.0"
+    ],
+    "fonts": [
+      "Google Fonts: Roboto Flex",
+      "Google Fonts: Inter",
+      "Google Fonts: Source Sans 3",
+      "Google Fonts: Fraunces",
+      "Google Fonts: Recursive"
+    ]
+  },
+  "accessibility": {
+    "screen_readers": "All text splitting patterns include aria-label preservation and aria-hidden spans",
+    "reduced_motion": "All animations include @media (prefers-reduced-motion) fallbacks",
+    "keyboard_navigation": "Text animation does not interfere with keyboard navigation",
+    "color_contrast": "Text remains readable during and after animation"
+  },
+  "performance": {
+    "will_change": "Recommended for all animated elements",
+    "gpu_acceleration": "Transform-only animations (no layout thrashing)",
+    "reflow_management": "Text splitting occurs on mount, not on every frame",
+    "mobile_optimization": "Reduced complexity on mobile; slower stagger acceptable"
+  },
+  "browser_support": {
+    "css_animations": "All modern browsers (IE 10+)",
+    "css_properties": "@property support for smooth interpolation (Chrome 85+, Safari 15.4+)",
+    "transforms": "All modern browsers with GPU acceleration",
+    "variable_fonts": "All modern browsers (IE 11 fallback to static fonts)"
+  }
+}

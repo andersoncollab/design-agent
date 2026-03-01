@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Spacing systems and CSS layout architecture covering 4px/8px scales, CSS Grid, Flexbox, subgrid, container queries, and section rhythm patterns.",
+  "references": [
+    "https://every-layout.dev",
+    "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout",
+    "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Subgrid"
+  ]
+}

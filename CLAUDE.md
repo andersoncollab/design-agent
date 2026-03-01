@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains **44 Agent Skills** for AI-powered design and product development across web, apps, graphics, and print. Skills follow the [Agent Skills specification](https://agentskills.io/specification.md) and are organized as Component, Interactive, or Workflow types.
+This repository contains **47 Agent Skills** for AI-powered design and product development across web, apps, graphics, and print. Skills follow the [Agent Skills specification](https://agentskills.io/specification.md) and are organized as Component, Interactive, or Workflow types.
 
 ## Repository Structure
 

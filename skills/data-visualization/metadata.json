@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "February 2026",
+  "abstract": "Data visualization design patterns covering chart selection, color for data, accessible charts, and D3/Recharts/Chart.js implementation.",
+  "references": [
+    "https://d3js.org",
+    "https://recharts.org",
+    "https://www.tremor.so",
+    "https://visx-demo.vercel.app",
+    "https://www.colororacle.org",
+    "https://www.datavizsociety.org"
+  ]
+}

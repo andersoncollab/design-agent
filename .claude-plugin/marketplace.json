@@ -5,9 +5,9 @@
     "url": "https://andersoncollaborative.com"
   },
   "metadata": {
-    "description": "44 design and product development skills — web, apps, graphics, print — with Figma MCP, Brandfetch, and remove.bg integrations",
-    "version": "4.0.0",
-    "repository": "https://github.com/andersoncollaborative/design-agent"
+    "description": "47 design and product development skills — web, apps, graphics, print — with Figma MCP, Brandfetch, and remove.bg integrations",
+    "version": "5.0.0",
+    "repository": "https://github.com/andersoncollab/design-agent"
   },
   "plugins": [
     {
@@ -59,7 +59,10 @@
         "./skills/lottie-rive",
         "./skills/navigation-patterns",
         "./skills/onboarding-ux",
-        "./skills/error-states"
+        "./skills/error-states",
+        "./skills/data-visualization",
+        "./skills/typography-animation",
+        "./skills/spacing-layout-system"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # Design Agent
 
-44 Agent Skills for design and product development across web, apps, graphics, and print. Built for Anderson Collaborative.
+47 Agent Skills for design and product development across web, apps, graphics, and print. Built for Anderson Collaborative.
 
 ## Installation
 
@@ -48,6 +48,9 @@ Copy `.env.example` to `.env` and add your keys:
 | `navigation-patterns` | Component | Navbars, sidebars, bottom tabs, command palettes |
 | `onboarding-ux` | Component | First-run experience, empty states, feature tours |
 | `error-states` | Component | 404/500 pages, offline mode, graceful degradation |
+| `data-visualization` | Component | Chart selection, D3/Recharts, color for data |
+| `typography-animation` | Component | Kinetic type, text reveals, variable fonts |
+| `spacing-layout-system` | Component | 4px grid, CSS Grid/Subgrid, section rhythm |
 
 ### Product & App Design
 | Skill | Type | Description |
