@@ -1,0 +1,57 @@
+{
+  "version": "1.0.0",
+  "organization": "Anderson Collaborative",
+  "date": "May 2026",
+  "abstract": "Audit a live URL on multiple mobile viewports, locate the primary CTA, measure how far below the fold it renders, and produce a surgical CSS patch that pulls it above the fold without redesigning the page. Uses Playwright for headless measurement and CSS injection to render a before/after comparison on the live DOM. Best for stakeholder feedback like 'the button is below the fold on mobile' or 'lots of unused vertical space.' No source-code access required — works on any public URL.",
+  "methodology": [
+    "Capture mobile screenshots and DOM tree at 3 breakpoints (375/390/360)",
+    "Walk hero DOM, pin top contributors to hero height",
+    "Write surgical CSS patch using real class names",
+    "Inject patch on live DOM via Playwright addStyleTag, re-measure",
+    "Hand off with measured proof (before/after table + screenshots)"
+  ],
+  "common_culprits": [
+    "min-height: 100vh on hero forcing viewport-fill on mobile",
+    "Padding totaling >100px on small viewports",
+    "Decorative imagery in DOM before headline + CTA",
+    "Device mockups without max-height",
+    "Fixed paddings that don't step down on mobile"
+  ],
+  "fix_priority_order": [
+    "Remove or zero out min-height on mobile",
+    "Reduce hero padding to 16/32px",
+    "Reorder DOM with flex order so text + CTA come first",
+    "Cap decorative elements at 60vh max",
+    "Tighten CTA-group margins"
+  ],
+  "test_breakpoints": [
+    {"name": "iPhone SE", "viewport": "375x667"},
+    {"name": "iPhone 14", "viewport": "390x844"},
+    {"name": "Galaxy S8", "viewport": "360x740"}
+  ],
+  "deliverables": [
+    "Markdown report with measured before/after table",
+    "Single CSS block for copy-paste",
+    "Before/after screenshots at all 3 breakpoints",
+    "Playwright scripts (audit + fix renderer)"
+  ],
+  "case_studies": [
+    "references/impeccable-style/ — vendor product page where primary CTA moved from y=1011px to y=427px on iPhone SE (584px above-fold improvement)"
+  ],
+  "tags": [
+    "above-the-fold",
+    "mobile-audit",
+    "hero-section",
+    "cta-position",
+    "playwright",
+    "css-injection",
+    "responsive-design",
+    "conversion-optimization"
+  ],
+  "related_skills": [
+    "responsive-patterns",
+    "design-qa",
+    "visual-audit",
+    "landing-page-patterns"
+  ]
+}

@@ -1,6 +1,6 @@
 # Design Agent
 
-47 Agent Skills for design and product development across web, apps, graphics, and print. Built for Anderson Collaborative.
+48 Agent Skills for design and product development across web, apps, graphics, and print. Built for Anderson Collaborative.
 
 ## Installation
 
@@ -42,6 +42,7 @@ Copy `.env.example` to `.env` and add your keys:
 | `i18n-rtl` | Component | Internationalization, RTL layouts, logical properties |
 | `white-label-systems` | Component | Multi-tenant theming, dynamic brand switching |
 | `design-qa` | Component | Visual regression testing, pre-launch checklists |
+| `above-the-fold-audit` | Workflow | Audit live URL on mobile, locate CTA, ship surgical CSS patch with measured before/after proof |
 | `design-handoff` | Workflow | Dev handoff specs, annotations, asset export |
 | `gsap-animations` | Component | GSAP timelines, ScrollTrigger, SplitText, stagger |
 | `lottie-rive` | Component | After Effects Lottie + Rive interactive animations |
